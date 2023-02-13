@@ -8,8 +8,6 @@ using the setYears() method. The findResultYear() method finds what year the use
 become the target age.
  */
 
-package cs141.landon;
-
 import java.util.Scanner;
 
 public class BirthdayWizard {

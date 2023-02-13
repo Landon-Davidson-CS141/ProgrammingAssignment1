@@ -8,8 +8,6 @@ setGrades(). Then it finds the average grade and uses if statements to convert t
 to a letter grade in the printGpa() method.
  */
 
-package cs141.landon;
-
 import java.util.Scanner;
 
 public class GpaCalculator {

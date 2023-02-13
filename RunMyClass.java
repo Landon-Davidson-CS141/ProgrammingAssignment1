@@ -1,5 +1,3 @@
-package cs141.landon;
-
 public class RunMyClass {
     public static void main(String[] args) {
         BirthdayWizard bday = new BirthdayWizard();
